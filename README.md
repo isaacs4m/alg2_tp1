@@ -5,4 +5,4 @@ O arquivo Documentação.pdf contém os detalhes de implementação do programa 
 
 Aluno: Antônio Isaac
 
-Universidad Federal de Minas Gerais - UFMG - 2021
+Universidade Federal de Minas Gerais - UFMG - 2021
